@@ -1,0 +1,2 @@
+- name: OSX finger command to retreive the logged in users
+  shell: finger
